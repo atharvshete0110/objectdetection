@@ -15,3 +15,8 @@ This model detects objects defined in the _COCO_ dataset, which is a large-scale
 Simply open the [webpage](https://oscar-defelice.github.io/object-recognition-js) and enjoy!
 
 
+
+this is already a existing project.
+
+
+
